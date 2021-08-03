@@ -1,0 +1,36 @@
+{
+	"name": "enumincludes.ahk",
+	"version": "0.1.0",
+	"description": "",
+	"main": "export.ahk",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Chunjee/enumincludes.ahk.git"
+	},
+	"keywords": [
+		"ahk"
+	],
+	"dependencies": {},
+	"devDependencies": {
+		"unit-testing.ahk": "github:chunjee/unit-testing.ahk"
+	},
+	"author": "Shawn Brooker",
+	"contributors": [
+		{
+			"name": "Shawn Brooker",
+			"url": "https://github.com/chunjee"
+		},
+		{
+			"name": "Coco",
+			"url": "https://github.com/cocobelgica"
+		}
+	],
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/Chunjee/enumincludes.ahk/issues"
+	},
+	"homepage": "https://github.com/Chunjee/enumincludes.ahk"
+}
